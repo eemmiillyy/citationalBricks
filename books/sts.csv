@@ -1,0 +1,256 @@
+Department,Author
+STS01,Jaron Lanier
+STS02,Jaron Lanier
+STS03,Jaron Lanier
+STS04,Hubert L. Dreyfus
+STS05,Sherry Turkle
+STS06,Sherry Turkle
+STS07,Sherry Turkle
+STS08,Sherry Turkle
+STS09,Sherry Turkle
+STS10,Lawrence Lessig
+STS11,Lawrence Lessig
+STS12,Lawrence Lessig
+STS13,Lawrence Lessig
+STS14,Lawrence Lessig
+STS15,Tim Berners-Lee
+STS16,Eric S. Raymond
+STS17,Linus Thorwalds
+STS18,Joseph Weizenbaum
+STS19,"Joseph Weizenbaum, Gunna Wendt"
+STS20,Norbert Wiener
+STS21,Richard M. Stallman
+STS22,Marshall McLuhan
+STS23,Albert Borgmann
+STS24,Gerald M. Weinberg
+STS25,Frederick P. Brooks Jr.
+STS26,Frederick Brooks
+STS27,Plato
+STS28,Hans Jonas
+STS29,Vittorio Hösle
+STS30,Vittorio Hösle
+STS31,Gregor/Timmerman/Korsgaard (transl.)
+STS32,Immanuel Kant
+STS33,Immanuel Kant
+STS34,Immanuel Kant
+STS35,Immanuel Kant
+STS36,Immanuel Kant
+STS37,Aristotle
+STS38,Jean-PaulSartre
+STS39,Gilbert Ryle
+STS40,John Rawls
+STS41,Thomas Hobbes
+STS42,Michael Walzer
+STS43,"Jean-Jacques Rousseau, John Scott"
+STS44,Walter Benjamin
+STS45,Van Norden/Ivanhoe
+STS46,Herbert Marcuse
+STS47,"Max Horkheimer, Theodor W. Adorno, Gunzelin Noeri"
+STS48,Mike Gancarz
+STS49,"Friedrich Nietzsche, Bernard Williams, Josefine Nauckhoff"
+STS50,Friedrich Nietzsche
+STS51,Ludwig Wittgenstein
+STS52,Ludwig Wittgenstein
+STS53,Luciano Floridi
+STS54,Himma/Tavani
+STS55,Martin Heidegger
+STS56,Jay Rosenberg
+STS57,Harry J. Gensler
+STS58,Clay Shirky
+STS59,Zygmunt Bauman
+STS60,Martin Recke
+STS60.1,Martin Recke
+STS61,Alexander Osterwalder
+STS62,Mary Aiken
+STS63,Patricia Wallace
+STS64,John Suler
+STS65,Thomas D. Parsons
+STS66,"Alison Attrill, Chris Fullwood"
+STS67,Andrew Power
+STS68,Ashley Vance
+STS69,Tim O'Reilly
+STS70,Nick Carr
+STS71,Rose Elliot
+STS72,Marvin Minsky
+STS73,Hannah Arendt
+STS74,Susan Neiman
+STS75,Susan Neiman
+STS76,Jacques Ellul
+STS77,Max Tegmark
+STS78,Nick Bostrom
+STS79,Peter Thiel
+STS79.1,Peter Thiel
+STS80,Tim Wu
+STS81,Ray Kurzweil
+STS82,"Hannah Arendt, Gershom Scholem"
+STS83,Wittgenstein
+STS84,Cheryl Sandberg
+STS85,Brad Feld
+STS86,Martin Recke
+STS87,Robert Heilbroner
+STS88,Michael Tomasello
+STS89,Mark Fisher
+STS90,"Richard Thaler,Cass Sunstein"
+STS91,Donald A. Schön
+STS91.1,Donald A. Schön
+STS92, Donella H. Meadows
+STS93,Martin Gertler
+STS94,Bruce Schneier
+STS95,Tim Wu
+STS96,Thomas Ramge
+STS97,"Mahatma Gandhi, Anthony J. Parel"
+STS98,Charles Taylor
+STS99,"Alexander R. Galloway, Eugene Thacker, McKenzie Wark"
+STS100,Ludwig Wittgenstein
+STS101,Johan Huizinga
+STS102,Natasha Dow Schüll
+STS103,"Stephen M. Kosslyn, Ben Nelson, Bob Kerrey"
+STS104,Michael J. Quinn
+STS105,Dan Ariely
+STS106,"Michael Bazzell, Justin Carroll"
+STS107,"Michael Bazzell, Justin Carroll"
+STS108,Sarah E. Igo
+STS109,Jaron Lanier
+STS110,Audre Lorde
+STS111,Yuval Noah Harari
+STS112,Yuval Noah Harari
+STS113,Yuval Noah Harari
+STS114,"Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer"
+STS115,Daniel J. Solove
+STS116,Mihaly Csikszentmihalyi
+STS117,Chimamanda Ngozi Adichie
+STS118,Woodrow Hartzog
+STS119,Sally Rooney
+STS120,Norbert Wiener
+STS121,"Peter J. Denning, Craig H. Martell, Vint Cerf"
+STS122,"Henry Kimsey-House, Karen Kimsey-House, Phillip Sandahl, Laura Whitworth"
+STS123,John Whitmore
+STS124,"Ulrike Felt, Rayvon Fouché, Clark A. Miller, Laurel Smith-Doerr"
+STS125,Robert C. Scharff & Val Dusek
+STS126,Florian Grote
+STS127,Sara Ahmed
+STS128,Audre Lorde
+STS129,Todd Gustavson
+STS130,Gerald Hünter
+STS131,Mark Payne
+STS132,Nicolas Dickner
+STS133,"Mattias Schrader, Volker Martens"
+STS134,James Williams
+STS135,Shoshana Zuboff
+STS136,Hilary Glasman-Deal
+STS137,Jose Van Dijck
+STS138,Evan Calder Williams
+STS139,Alexander Görlach
+STS140,Roberto Manzocco
+STS141,Thomas Thwaites
+STS142,Stephen King
+STS143,Exploratorium
+STS144,Daniel R. Headrick
+STS145,"Novella Carpenter, Willow Rosenthal"
+STS146,Tim Marshall
+STS147,Simon Singh
+STS147.1,Simon Singh
+STS148,"Svenia Busson, Sairica Rose"
+STS149,"Jens Kirchner, Pascal R. Kremp,Michael Magotsch"
+STS150,Sara Wachter-Boettcher
+STS150.1,Sara Wachter-Boettcher
+STS151,Stuart Russell
+STS152,Dan K. Eberhart
+STS153,Klaus Mainzer
+STS154,Charles Petzold
+STS155,Olaf-Axel Burow
+STS156,Katie Martin
+STS157,"Alma de Zarate, Jamila Tressel, Lara-Luna Ehrenschneider"
+STS158,Vitra Design Museum
+STS159,Qatar Foundation
+STS160,John Carreyrou
+STS161,Neal Stephenson
+STS162,Richard M. Ryan & Edward L. Deci
+STS163,Pierre Lévy
+STS164,Adam Greenfield
+STS165,Timothy Morton
+STS166,Rosi Braidotti
+STS167,Hannah Fry
+STS168,Fraser & Jaeggi
+STS169,Karen Barad
+STS170,Timothy Morton
+STS171,Gregory Bateson
+STS172,Bruno Latour
+STS173,Anna Lowenhaupt Tsing
+STS174,Donna J. Haraway
+STS175,J.K. Gibson-Graham
+STS176,J.K. Gibson-Graham
+STS177,Edward Snowden
+STS178,Timothy C. Urdan
+STS179,Cindi Katz
+STS180,Paulo Freire
+STS181,David Graeber
+STS182,Martha C. Nussbaum
+STS183,Peter-Paul Verbeek
+STS184,"Wes ""Scoop"" Nisker"
+IS01,Daniel Everett
+IS02,Edward Twitchell Hall
+IS03,Daniel Everett
+IS04,Michael Tomasello
+IS05,Daniel Everett
+IS06,Dan Roam
+IS07,Rosamund Stone Zander
+IS08,Mitchel Resnick
+IS09,"Chip Heath, Dan Heath"
+IS10,Charles Duhigg
+IS11,Malte Härtig
+IS12,P. H. Davies
+IS13,Tim Harford
+IS14,Caroline Criado Perez
+IS14.1,Caroline Criado Perez
+IS15,"Linda O'grady, Kristina Riess"
+IS16,Susan Cain
+IS17,Various
+IS18,Buscha/Friedrich
+IS19,"Stefanie Dengler, Paul Rusch, Helen Schmitz, Tanja Sieber"
+IS20,"Stefanie Dengler, Paul Rusch, Helen Schmitz, Tanja Sieber"
+IS21,Gaston Dorren
+IS22,Hans Gutbrod
+IS23,"Sheryl Sandberg, Adam Grant"
+IS23.1,"Sheryl Sandberg, Adam Grant"
+IS24,Johann Hari
+IS25,Carl Cederström
+IS26,Simon Sinek
+IS27,Mikkel Krause Frantzen
+IS28,Barbara Ehrenreich
+IS29,Erin Meyer
+IS29.1,Erin Meyer
+IS29.2,Erin Meyer
+IS30,Darla K. Deardorff
+DH01,David Goldhill
+DH02,Atul Gawande
+DH03,Jim Al-Khalili & Johnjoe McFadden
+DH04,Eric Topol
+DH05,Atul Gawande
+DH06,Andrew McAfee & Erik Brynjolfsson
+DH07,Atul Gawande
+DH08,Shannon Brownlee
+DH09,Clayton M. Christensen
+DH10,Fred Trotter & David Uhlman
+DH11,Michael E. Porter & Clemens Guth
+DH12,Robert Wachter
+DH13,Jonathan Bush
+DH14,Eric Topol
+DH15,Samuel A. Fricker & Christoph Thümmler & Anastasius Gavras
+DH16,Jeremy N. Smith
+DH17,Hartwig Huland/Markus Graefen/Jens Deerberg-Wittram (Hrsg.)
+DH18,Erwin Böttinger/Jasper zu Putlitz (Hrsg.)
+DH19,Michael E. Porter & Elizabeth Olmsted Teisberg
+XXL01,"Sandra Rendgen, Ed. Julius Wiedemann"
+XXL02,"Jan Schwochow, Thomas Ramge"
+XXL03,Anja Hermanni
+XXL04,Otto Group
+XXL05,"Eric Lehman, F Tom Leighton & Albert R Meyer"
+XXL06,Sandra Rendgen
+XXL07,Wang Shaoqiang
+XXL08,"Frank Thomas, Ollie Johnston"
+XXL09,"Jennifer Bass, Pat Kirkham"
+XXL10,
+XXL11,"Gavin Ambrose, Paul Harris"
+XXL12,Sumanta Guha
+XXL13,Alina Wheeler
